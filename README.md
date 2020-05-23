@@ -1,6 +1,6 @@
 # Mask-Recognition-on-Face
 
-Recognize wheather a Person is wearing mask or not
+Recognize whether a Person is wearing mask or not
 
 Inspired by - https://www.pyimagesearch.com/pyimagesearch-gurus/
 
