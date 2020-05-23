@@ -1,4 +1,4 @@
-# Mask-Recognition-on-Face
+# Mask-Detection-on-Face
 
 Recognize whether a Person is wearing mask or not
 
